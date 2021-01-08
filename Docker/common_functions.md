@@ -9,3 +9,5 @@
 `docker exec -it mongo mongo admin`  
 ![mongo add admin](../assets/Docker/mongo-add-admin.png)  
 参考链接：https://www.runoob.com/docker/docker-install-mongodb.html
+#### 5.创建node示例
+![docker new node](../assets/Docker/docker-new-node.png) 
