@@ -5,3 +5,5 @@
 ### 3.查看数据
 `db.runoob.find()`等价于select *  
 ![mongo insert](../assets/Mongo/mongo-insert.png)  
+### 4.退出
+`exit`
