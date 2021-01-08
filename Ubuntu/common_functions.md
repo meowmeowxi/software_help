@@ -6,3 +6,4 @@
 `ls`
 #### 4.make directory
 `mkdir`
+![linux cd](../assets/Ubuntu/linux-cd.png)  
