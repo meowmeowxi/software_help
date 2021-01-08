@@ -7,3 +7,5 @@
 ![server.js](../assets/Node/server-js.png)  
 #### 四、新建Dockerfile
 ![Dockerfile](../assets/Node/dockerfile.png)  
+#### 五、新建.dockerignore
+![.dockerignore](../assets/Node/dockerignore.png)  
