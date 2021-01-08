@@ -10,10 +10,10 @@
 #### 五、新建.dockerignore
 ![.dockerignore](../assets/Node/dockerignore.png)  
 #### 六、构建镜像
-构建镜像`docker build -t node-web-2 .`
-查看镜像`docker images`
+构建镜像`docker build -t node-web-2 .`  
+查看镜像`docker images`  
 ![docker images](../assets/Node/docker-images.png)  
 #### 七、运行镜像
-运行镜像`docker run -p 49160:8080 -d node-web-2`
-查看container id`docker ps`
-打印输出`docker logs <container id>`
+运行镜像`docker run -p 49160:8080 -d node-web-2`  
+查看container id`docker ps`  
+打印输出`docker logs <container id>`  
