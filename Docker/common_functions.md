@@ -11,3 +11,6 @@
 参考链接：https://www.runoob.com/docker/docker-install-mongodb.html
 #### 5.创建node示例
 ![docker new node](../assets/Docker/docker-new-node.png) 
+#### 6.重启docker服务
+通用命令`sudo service docker restart`，但本机的docker是在安装Ubuntu时一起安装的，故需使用命令`sudo snap restart docker`。参考报错
+`Failed to restart docker.service: Unit docker.service not found.`
