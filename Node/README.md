@@ -9,3 +9,7 @@
 ![Dockerfile](../assets/Node/dockerfile.png)  
 #### 五、新建.dockerignore
 ![.dockerignore](../assets/Node/dockerignore.png)  
+#### 六、构建镜像
+构建镜像`docker build -t node-web-2 .`
+查看镜像`docker images`
+![docker images](../assets/Node/docker-images.png)  
