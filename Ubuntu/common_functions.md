@@ -5,5 +5,5 @@
 #### 3.list files
 `ls`
 #### 4.make directory
-`mkdir`
+`mkdir`  
 ![linux cd](../assets/Ubuntu/linux-cd.png)  
