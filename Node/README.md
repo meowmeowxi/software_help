@@ -4,4 +4,6 @@
 ![package.json](../assets/Node/package-json.png)  
 #### 二、运行`npm install`
 #### 三、新建server.js
-![package.json](../assets/Node/server-js.png)  
+![server.js](../assets/Node/server-js.png)  
+#### 四、新建Dockerfile
+![Dockerfile](../assets/Node/dockerfile.png)  
