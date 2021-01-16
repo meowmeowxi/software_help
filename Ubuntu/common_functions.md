@@ -9,3 +9,5 @@
 ![linux cd](../assets/Ubuntu/linux-cd.png)  
 #### 5.重启
 立即重启：`shutdown -r now`
+#### 6.重命名文件
+`mv server.js index.js`
