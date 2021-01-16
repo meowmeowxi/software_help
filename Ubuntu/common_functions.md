@@ -11,3 +11,6 @@
 立即重启：`shutdown -r now`
 #### 6.重命名文件
 `mv server.js index.js`
+#### 7.联网测试
+`ping www.baidu.com`,有返回包有网，否则没有。按`ctrl+c`终止命令  
+（就测试来看，NAT模式一般有网，桥接模式没网）
