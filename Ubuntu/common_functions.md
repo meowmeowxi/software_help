@@ -14,3 +14,7 @@
 #### 7.联网测试
 `ping www.baidu.com`,有返回包有网，否则没有。按`ctrl+c`终止命令  
 （就测试来看，NAT模式一般有网，桥接模式没网）
+#### 8.复制文件夹
+`cp -r /home/miao/code/nju /home/miao/code/export/nju`  
+`/home/miao/code/nju`源文件夹，`/home/miao/code/export/nju`新文件夹（nju文件夹原来不存在，新建的）
+
