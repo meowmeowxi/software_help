@@ -18,3 +18,5 @@
 `docker restart my-node`
 #### 8.进入容器
 `docker exec -it 733b bash`,使用container前四位字母也可启动（键值唯一的话）
+#### 9.删除容器
+`docker container rm my-node`
