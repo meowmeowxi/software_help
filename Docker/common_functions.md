@@ -14,3 +14,7 @@
 #### 6.重启docker服务
 通用命令`sudo service docker restart`，但本机的docker是在安装Ubuntu时一起安装的，故需使用命令`sudo snap restart docker`。参考报错
 `Failed to restart docker.service: Unit docker.service not found.`
+#### 7.重启容器
+`docker restart my-node`
+#### 8.进入容器
+`docker exec -it 733b bash`,使用container前四位字母也可启动（键值唯一的话）
