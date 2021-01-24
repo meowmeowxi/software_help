@@ -20,3 +20,6 @@
 `docker exec -it 733b bash`,使用container前四位字母也可启动（键值唯一的话）
 #### 9.删除容器
 `docker container rm my-node`
+#### 10.启用sudo
+`bash: sudo: command not found`  
+解决方案：①`apt-get update`②`apt-get install sudo`
