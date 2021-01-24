@@ -19,3 +19,6 @@
 `/home/miao/code/nju`源文件夹，`/home/miao/code/export/nju`新文件夹（nju文件夹原来不存在，新建的）
 #### 9.命令行可翻页
 命令后加`|more`，比如`docker ps -a --no-trunc|more`
+#### 10.删除文件
+删除文件: `rm -f mongo.tar`  
+删除文件j夹: `rm -rf mongo`
