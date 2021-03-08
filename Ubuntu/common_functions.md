@@ -22,3 +22,6 @@
 #### 10.删除文件
 删除文件: `rm -f mongo.tar`  
 删除文件j夹: `rm -rf mongo`
+#### 11.界面版Ubuntu与命令行版切换
+变为界面版: `ctrl+alt+F1`  
+变为命令行版: `ctrl+alt+F3`
