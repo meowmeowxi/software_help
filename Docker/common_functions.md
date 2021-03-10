@@ -27,3 +27,8 @@
 #### 12.启用sudo
 `bash: sudo: command not found`  
 解决方案：①`apt-get update`②`apt-get install sudo`
+#### 13.启动现存容器
+`docker start my-node` 
+#### 14.更新镜像
+`docker commit -m="has update" -a="miao" nju-ubuntu test_ubuntu:v2`  
+https://www.runoob.com/docker/docker-image-usage.html
