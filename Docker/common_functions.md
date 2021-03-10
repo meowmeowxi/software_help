@@ -32,3 +32,5 @@
 #### 14.更新镜像
 `docker commit -m="has update" -a="miao" nju-ubuntu test_ubuntu:v2`  
 https://www.runoob.com/docker/docker-image-usage.html
+#### 15.查看docker里的ubuntu版本
+`cat /etc/issue`  
