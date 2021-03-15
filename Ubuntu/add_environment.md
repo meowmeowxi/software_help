@@ -15,3 +15,5 @@ Ctrl+X ，Y
 #### 1.编辑配置文件
 `vim /etc/netplan/00-installer-config.yaml`
 ![ipconfig](../assets/Ubuntu/ipconfig.png)
+#### 2.重启
+`sudo netplan generate`，`sudo netplan apply`,重启虚拟机
