@@ -11,3 +11,7 @@
 `exit`
 ### 5.查看mongo数据库
 `show dbs`
+### 7.复制mongo数据库
+系统命令行（非mongo shell）输入：  
+①导出数据库 `mongodump -h localhost -d test -o /test/temp`  
+②导入数据库`mongorestore -h localhost -d testv2 /test/temp/test`
