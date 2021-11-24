@@ -40,3 +40,5 @@ https://www.runoob.com/docker/docker-image-usage.html
  `docker load <refineMask.tar`
 #### 18.查看docker版本
 `docker -v`
+#### 19.查看容器内分配的GPU
+`nvidia-smi -L`
