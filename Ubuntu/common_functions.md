@@ -32,3 +32,5 @@
 `find / -name mmcv`
 #### 14.移动文件夹
  `mv /tmp/coco ./`
+#### 15. 查看NVIDIA信息
+`nvidia-smi`
