@@ -36,4 +36,5 @@ https://www.runoob.com/docker/docker-image-usage.html
 `cat /etc/issue`  
 #### 16.导出镜像
 `	docker save mmdetection:v2 > refineMask.tar`  
-
+#### 17.导入镜像
+ `docker load <refineMask.tar`
