@@ -34,3 +34,6 @@
 https://www.runoob.com/docker/docker-image-usage.html
 #### 15.查看docker里的ubuntu版本
 `cat /etc/issue`  
+#### 16.导出镜像
+`	docker save mmdetection:v2 > refineMask.tar`  
+
