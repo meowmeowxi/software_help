@@ -38,3 +38,5 @@ https://www.runoob.com/docker/docker-image-usage.html
 `	docker save mmdetection:v2 > refineMask.tar`  
 #### 17.导入镜像
  `docker load <refineMask.tar`
+#### 18.查看docker版本
+`docker -v`
