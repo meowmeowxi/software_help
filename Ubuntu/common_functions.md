@@ -28,3 +28,5 @@
 变为命令行版: `ctrl+alt+F3`
 #### 12.Linux Shell文件名自动补全
 输入前几个字母，按tab键
+#### 13.Linux查找文件
+find / -name mmcv
