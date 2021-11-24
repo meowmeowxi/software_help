@@ -29,4 +29,6 @@
 #### 12.Linux Shell文件名自动补全
 输入前几个字母，按tab键
 #### 13.Linux查找文件
-find / -name mmcv
+`find / -name mmcv`
+#### 14.移动文件夹
+ `mv /tmp/coco ./`
