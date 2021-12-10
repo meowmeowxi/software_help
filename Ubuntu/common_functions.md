@@ -40,4 +40,7 @@
  `ps aux |grep python`
 #### 18.如何杀死某个进程
 `kill 6510`
-
+#### 19.打包
+解包：tar xvf FileName.tar  
+打包：tar cvf FileName.tar DirName  
+注：tar是打包，不是压缩
