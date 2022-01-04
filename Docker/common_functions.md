@@ -43,5 +43,6 @@ https://www.runoob.com/docker/docker-image-usage.html
 #### 19.查看容器内分配的GPU
 `nvidia-smi -L`
 #### 20.安装vim
+`apt-get update`  
 `apt-get install vim`
-`
+
